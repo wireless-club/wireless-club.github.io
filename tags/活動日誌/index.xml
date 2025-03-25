@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>活動日誌 on 東京理科大学 神楽坂 無線研究部homepage</title>
+    <link>https://wireless-club.github.io/tags/%E6%B4%BB%E5%8B%95%E6%97%A5%E8%AA%8C/</link>
+    <description>Recent content in 活動日誌 on 東京理科大学 神楽坂 無線研究部homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wireless-club.github.io/tags/%E6%B4%BB%E5%8B%95%E6%97%A5%E8%AA%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024年 活動日誌(仮)</title>
+      <link>https://wireless-club.github.io/page/activity-diary/2024/2024%E6%B4%BB%E5%8B%95%E6%97%A5%E8%AA%8C/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://wireless-club.github.io/page/activity-diary/2024/2024%E6%B4%BB%E5%8B%95%E6%97%A5%E8%AA%8C/</guid>
+      <description>追記するかもしれませんが、2024年の活動日誌です。 予算1万円でつくる二足歩行ロボット (I/O BOOKS)中村 俊幸という本でロボットを制作してみました。 この本の紹介になりますが、この本は回路図を設計して基盤のパターンを作るところからロボットを動かすところまで一気通貫でやっている本になります。
+ 苦労したこと </description>
+    </item>
+    
+  </channel>
+</rss>
