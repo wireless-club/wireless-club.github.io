@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Enters on 東京理科大学 神楽坂 無線研究部homepage</title>
+    <title>Enters on 東京理科大学 神楽坂 無線研究部</title>
     <link>https://wireless-club.github.io/enter/</link>
-    <description>Recent content in Enters on 東京理科大学 神楽坂 無線研究部homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Enters on 東京理科大学 神楽坂 無線研究部</description>
+    <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Mar 2025 23:37:19 +0900</lastBuildDate><atom:link href="https://wireless-club.github.io/enter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Mar 2025 23:37:19 +0900</lastBuildDate>
+    <atom:link href="https://wireless-club.github.io/enter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>入部希望または入部に興味のある方</title>
       <link>https://wireless-club.github.io/enter/enter-club/</link>
       <pubDate>Mon, 24 Mar 2025 23:37:19 +0900</pubDate>
-      
       <guid>https://wireless-club.github.io/enter/enter-club/</guid>
-      <description>入部に興味のある方や見学だけとりあえずしてみたいという方は下の連絡先に連絡してください。返信は1~3日程度でします。
-連絡先
-musenkenkyu@gmail.com</description>
+      <description>&lt;p&gt;入部に興味のある方や見学だけとりあえずしてみたいという方は下の連絡先に連絡してください。返信は1~3日程度でします。&lt;/p&gt;&#xA;&lt;p&gt;連絡先&lt;br&gt;&#xA;&lt;a href=&#34;mailto:musenkenkyu@gmail.com&#34;&gt;musenkenkyu@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

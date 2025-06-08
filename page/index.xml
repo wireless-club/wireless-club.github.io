@@ -1,21 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on 東京理科大学 神楽坂 無線研究部homepage</title>
+    <title>Pages on 東京理科大学 神楽坂 無線研究部</title>
     <link>https://wireless-club.github.io/page/</link>
-    <description>Recent content in Pages on 東京理科大学 神楽坂 無線研究部homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Pages on 東京理科大学 神楽坂 無線研究部</description>
+    <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wireless-club.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wireless-club.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4bitCPU(TD4)を作る(2)</title>
+      <link>https://wireless-club.github.io/page/article/td4/2/td4%E4%BA%8C%E5%9B%9E%E7%9B%AE/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://wireless-club.github.io/page/article/td4/2/td4%E4%BA%8C%E5%9B%9E%E7%9B%AE/</guid>
+      <description>&lt;p&gt;4bitCPUを&amp;quot;CPUの創り方&amp;quot;という本のとおりに作ってみたブログの第2回です。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>4bitCPU(TD4)を作る(1)</title>
+      <link>https://wireless-club.github.io/page/article/td4/1/td4%E4%B8%80%E5%9B%9E%E7%9B%AE/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://wireless-club.github.io/page/article/td4/1/td4%E4%B8%80%E5%9B%9E%E7%9B%AE/</guid>
+      <description>&lt;p&gt;4bitCPUを&amp;quot;CPUの創り方&amp;quot;という本のとおりに作ってみたブログです。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>2024年 活動日誌(仮)</title>
       <link>https://wireless-club.github.io/page/activity-diary/2024/2024%E6%B4%BB%E5%8B%95%E6%97%A5%E8%AA%8C/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://wireless-club.github.io/page/activity-diary/2024/2024%E6%B4%BB%E5%8B%95%E6%97%A5%E8%AA%8C/</guid>
-      <description>追記するかもしれませんが、2024年の活動日誌です。 予算1万円でつくる二足歩行ロボット (I/O BOOKS)中村 俊幸という本でロボットを制作してみました。 この本の紹介になりますが、この本は回路図を設計して基盤のパターンを作るところからロボットを動かすところまで一気通貫でやっている本になります。
- 苦労したこと </description>
+      <description>&lt;p&gt;追記するかもしれませんが、2024年の活動日誌です。&lt;/p&gt;&#xA;&lt;section&gt;&#xA;    &lt;strong&gt;予算1万円でつくる二足歩行ロボット  (I/O BOOKS)中村 俊幸&lt;/strong&gt;という本でロボットを制作してみました。</description>
     </item>
-    
   </channel>
 </rss>

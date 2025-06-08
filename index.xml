@@ -1,52 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>東京理科大学 神楽坂 無線研究部homepage</title>
+    <title>東京理科大学 神楽坂 無線研究部</title>
     <link>https://wireless-club.github.io/</link>
-    <description>Recent content on 東京理科大学 神楽坂 無線研究部homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content on 東京理科大学 神楽坂 無線研究部</description>
+    <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Mar 2025 23:37:19 +0900</lastBuildDate><atom:link href="https://wireless-club.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wireless-club.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4bitCPU(TD4)を作る(2)</title>
+      <link>https://wireless-club.github.io/page/article/td4/2/td4%E4%BA%8C%E5%9B%9E%E7%9B%AE/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://wireless-club.github.io/page/article/td4/2/td4%E4%BA%8C%E5%9B%9E%E7%9B%AE/</guid>
+      <description>&lt;p&gt;4bitCPUを&amp;quot;CPUの創り方&amp;quot;という本のとおりに作ってみたブログの第2回です。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>4bitCPU(TD4)を作る(1)</title>
+      <link>https://wireless-club.github.io/page/article/td4/1/td4%E4%B8%80%E5%9B%9E%E7%9B%AE/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://wireless-club.github.io/page/article/td4/1/td4%E4%B8%80%E5%9B%9E%E7%9B%AE/</guid>
+      <description>&lt;p&gt;4bitCPUを&amp;quot;CPUの創り方&amp;quot;という本のとおりに作ってみたブログです。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>入部希望または入部に興味のある方</title>
       <link>https://wireless-club.github.io/enter/enter-club/</link>
       <pubDate>Mon, 24 Mar 2025 23:37:19 +0900</pubDate>
-      
       <guid>https://wireless-club.github.io/enter/enter-club/</guid>
-      <description>入部に興味のある方や見学だけとりあえずしてみたいという方は下の連絡先に連絡してください。返信は1~3日程度でします。
-連絡先
-musenkenkyu@gmail.com</description>
+      <description>&lt;p&gt;入部に興味のある方や見学だけとりあえずしてみたいという方は下の連絡先に連絡してください。返信は1~3日程度でします。&lt;/p&gt;&#xA;&lt;p&gt;連絡先&lt;br&gt;&#xA;&lt;a href=&#34;mailto:musenkenkyu@gmail.com&#34;&gt;musenkenkyu@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>サイト紹介</title>
       <link>https://wireless-club.github.io/site-introduction/site/</link>
       <pubDate>Sat, 22 Mar 2025 21:41:34 +0900</pubDate>
-      
       <guid>https://wireless-club.github.io/site-introduction/site/</guid>
-      <description>このサイトでは東京理科大学の神楽坂キャンパスのサークル無線研究部の活動日誌や活動紹介を書いていこうと思ってます。カテゴリーとタグ機能がありますのでご活用ください。また興味があることについて記事を書いたりもしていこうと思ってます。</description>
+      <description>&lt;p&gt;このサイトでは東京理科大学の神楽坂キャンパスのサークル無線研究部の活動日誌や活動紹介や記事などを書いています。カテゴリーとタグ機能があります。てきとーに使ってください。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>2024年 活動日誌(仮)</title>
       <link>https://wireless-club.github.io/page/activity-diary/2024/2024%E6%B4%BB%E5%8B%95%E6%97%A5%E8%AA%8C/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://wireless-club.github.io/page/activity-diary/2024/2024%E6%B4%BB%E5%8B%95%E6%97%A5%E8%AA%8C/</guid>
-      <description>追記するかもしれませんが、2024年の活動日誌です。 予算1万円でつくる二足歩行ロボット (I/O BOOKS)中村 俊幸という本でロボットを制作してみました。 この本の紹介になりますが、この本は回路図を設計して基盤のパターンを作るところからロボットを動かすところまで一気通貫でやっている本になります。
- 苦労したこと </description>
+      <description>&lt;p&gt;追記するかもしれませんが、2024年の活動日誌です。&lt;/p&gt;&#xA;&lt;section&gt;&#xA;    &lt;strong&gt;予算1万円でつくる二足歩行ロボット  (I/O BOOKS)中村 俊幸&lt;/strong&gt;という本でロボットを制作してみました。</description>
     </item>
-    
     <item>
       <title>サークル紹介</title>
       <link>https://wireless-club.github.io/self-introduction/explain/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://wireless-club.github.io/self-introduction/explain/</guid>
-      <description>初めまして。東京理科大学神楽坂のサークルの無線研究部です。名前からはアマチュア無線などをやっていそうですが、そんなことはないです。全くやってないです。じゃあなんでこんな名前なのかというとまあ、、、色々あります。（入部してくれたら教えます）今の主な活動内容は電子工作ですが、まあ何をしてもいいです。入るメリットとしては部室が使えたり3Dプリンターが使えたりします。活動日など特に決まってなく、今は各々好き勝手にやってます。このサイト管理者はロボットを作ってます、他にも私ではないですが3Dプリンターを使って何か作ったりしてます。電子工作やCAD、プログラミング、ロボットなどに興味がある方、入部してみませんか。Ⅰ部でもⅡ部でも歓迎です。活動見学だけでもいいので、もし無線研究部に興味がありましたらご連絡ください。あとアマチュア無線に興味がある方も入部お待ちしてます。このサークルを無線研究部にしてください。
-連絡先
-musenkenkyuu@gmail.com</description>
+      <description>&lt;p&gt;初めまして。東京理科大学神楽坂のサークルの無線研究部です。名前からはアマチュア無線などをやっていそうですが、そんなことはないです。えーっと、全くやってないです。じゃあなんでこんな名前なのかというとまあ、、、色々あります。（説明がめんどくさい）今の主な活動内容は電子工作ですが、まあ何をしてもいいです。入るメリットとしては部室が使えたり3Dプリンターが使えたりします。活動日など特に決まってなく、今は各々好き勝手にやってます。このサイト管理者はロボットを作ってます、他にも私ではないですが3Dプリンターを使って何か作ったりしてます。電子工作やCAD、プログラミング、ロボットなどに興味がある方、入部してみませんか。Ⅰ部でもⅡ部でも歓迎です。活動見学だけでもいいので、もし無線研究部に興味がありましたらご連絡ください。あとアマチュア無線に興味がある方も入部お待ちしてます。このサークルを無線研究部にしてください。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

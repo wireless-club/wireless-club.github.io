@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Self-introductions on 東京理科大学 神楽坂 無線研究部homepage</title>
+    <title>Self-Introductions on 東京理科大学 神楽坂 無線研究部</title>
     <link>https://wireless-club.github.io/self-introduction/</link>
-    <description>Recent content in Self-introductions on 東京理科大学 神楽坂 無線研究部homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Self-Introductions on 東京理科大学 神楽坂 無線研究部</description>
+    <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wireless-club.github.io/self-introduction/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wireless-club.github.io/self-introduction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>サークル紹介</title>
       <link>https://wireless-club.github.io/self-introduction/explain/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://wireless-club.github.io/self-introduction/explain/</guid>
-      <description>初めまして。東京理科大学神楽坂のサークルの無線研究部です。名前からはアマチュア無線などをやっていそうですが、そんなことはないです。全くやってないです。じゃあなんでこんな名前なのかというとまあ、、、色々あります。（入部してくれたら教えます）今の主な活動内容は電子工作ですが、まあ何をしてもいいです。入るメリットとしては部室が使えたり3Dプリンターが使えたりします。活動日など特に決まってなく、今は各々好き勝手にやってます。このサイト管理者はロボットを作ってます、他にも私ではないですが3Dプリンターを使って何か作ったりしてます。電子工作やCAD、プログラミング、ロボットなどに興味がある方、入部してみませんか。Ⅰ部でもⅡ部でも歓迎です。活動見学だけでもいいので、もし無線研究部に興味がありましたらご連絡ください。あとアマチュア無線に興味がある方も入部お待ちしてます。このサークルを無線研究部にしてください。
-連絡先
-musenkenkyuu@gmail.com</description>
+      <description>&lt;p&gt;初めまして。東京理科大学神楽坂のサークルの無線研究部です。名前からはアマチュア無線などをやっていそうですが、そんなことはないです。えーっと、全くやってないです。じゃあなんでこんな名前なのかというとまあ、、、色々あります。（説明がめんどくさい）今の主な活動内容は電子工作ですが、まあ何をしてもいいです。入るメリットとしては部室が使えたり3Dプリンターが使えたりします。活動日など特に決まってなく、今は各々好き勝手にやってます。このサイト管理者はロボットを作ってます、他にも私ではないですが3Dプリンターを使って何か作ったりしてます。電子工作やCAD、プログラミング、ロボットなどに興味がある方、入部してみませんか。Ⅰ部でもⅡ部でも歓迎です。活動見学だけでもいいので、もし無線研究部に興味がありましたらご連絡ください。あとアマチュア無線に興味がある方も入部お待ちしてます。このサークルを無線研究部にしてください。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
