@@ -6,8 +6,15 @@
     <description>Recent content on 東京理科大学 神楽坂 無線研究部</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://wireless-club.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>スマートフォンアプリでBluetooth gatewayもどきを作ってみた</title>
+      <link>https://wireless-club.github.io/page/article/mobileapp/1/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%A2%E3%83%97%E3%83%AA/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://wireless-club.github.io/page/article/mobileapp/1/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%A2%E3%83%97%E3%83%AA/</guid>
+      <description>&lt;p&gt;今回はスマートフォンアプリでbluetooth gatewayもどきを作ってみました。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>4bitCPU(TD4)を作る(3:終わり)</title>
       <link>https://wireless-club.github.io/page/article/td4/3/td4%E4%B8%89%E5%9B%9E%E7%9B%AE/</link>
